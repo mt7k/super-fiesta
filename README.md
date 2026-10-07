@@ -1,2 +1,2 @@
 # super-fiesta
-Projectile spawning mod with replication
+Deadline (roblox) Projectile spawning mod with replication
